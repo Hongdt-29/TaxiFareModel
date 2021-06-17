@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Pinku/code/Hongdt-29/TaxiFareModel/mlruns/1/a603e2169a4d4dbb9b16c7fbeddae201/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a603e2169a4d4dbb9b16c7fbeddae201
+run_uuid: a603e2169a4d4dbb9b16c7fbeddae201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623932744133
+status: 1
+tags: []
+user_id: unknown
